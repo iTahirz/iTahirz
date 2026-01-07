@@ -2,9 +2,10 @@
 
 I am a **Master's Degree Student in Computer Science** at the **University of Milan (Unimi)**, specializing in **Artificial Intelligence** and **Cloud Architectures**.
 
-### 🔒 My Private Projects (Available upon request)
+### 🔒 My Private Projects
 
-Although the source code for some of these projects is private, here is a detailed overview of what I have built:
+The source code for the following projects is set to private. However, **access is available upon request**.
+👉 If you are a recruiter or researcher, please **[email me](mailto:aga01tahir@icloud.com)** to request access to these repositories.
 
 - **🌍 Climate Monitoring System (Java RMI Distributed App)**
   - *Tech:* Java, Java RMI, Swing (GUI), PostgreSQL (JDBC), Design Patterns (Adapter, Proxy)
