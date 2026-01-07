@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Tahir
 
-I'm a Computer Science Student @ Unimi focusing on AI & Cloud.
+I am a **Master's Degree Student in Computer Science** at the **University of Milan (Unimi)**, specializing in **Artificial Intelligence** and **Cloud Architectures**.
 
 ### 🔒 My Private Projects (Available upon request)
 
