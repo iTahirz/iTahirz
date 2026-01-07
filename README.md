@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Tahir
 
-I am a **Master's Degree Student in Computer Science** at the **University of Milan (Unimi)**, specializing in **Artificial Intelligence** and **Cloud Architectures**.
-
+I am a **Master's Degree Student in Computer Science** at the **University of Milan (Unimi)**, focusing on **Advanced Software Engineering**, **Cloud Computing**, and **Intelligent Systems**.
 ### 🔒 My Private Projects
 
 The source code for the following projects is set to private. However, **access is available upon request**.
