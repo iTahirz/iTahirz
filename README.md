@@ -61,4 +61,4 @@ The source code for the following projects is set to private. However, **access 
   - *Description:* A fully functional native social network app featuring real-time feeds, user authentication, and media handling.
 
 ---
-[Visit my Portfolio Website for more details](https://tahiragalliu.vercel.app/)
+[Visit my Portfolio Website for more details](https://tahiragalliuwebsite.vercel.app/)
